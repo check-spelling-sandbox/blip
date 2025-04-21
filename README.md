@@ -37,7 +37,7 @@ Too long, don't read:
    per second, so you can notice very small variations.
 
  - If you watch the blip output while you do different
-   things (switch wifi networks, start Youtube videos
+   things (switch wifi networks, start YouTube videos
    playing, walk around), you can immediately see what
    impact that change has on the quality of your Internet
    connection.
