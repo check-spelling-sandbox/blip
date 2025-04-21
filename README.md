@@ -4,7 +4,7 @@ Tip:
 ----
 
 On your PC, laptop, tablet, phone, or iPod, try adding a
-bookmark to http://gfblip.appspot.com/ to your home screen
+bookmark to https://gfblip.appspot.com/ to your home screen
 for easy access.
 
 <img src="qr.png">
@@ -13,7 +13,7 @@ for easy access.
 Too long, don't read:
 ---------------------
 
- - Go to http://gfblip.appspot.com/
+ - Go to https://gfblip.appspot.com/
 
  - It should work on any PC, laptop, tablet, phone, or iPod
    with javascript and HTML canvas support (which means
@@ -95,7 +95,7 @@ Blip is an end-to-end testing tool designed to let you
 measure the latter two elements: latency and packet loss. 
 These are the real indicators of your web browsing
 performance.  It doesn't attempt to measure bandwidth; for
-that there's always good old http://speedtest.net/.  (By
+that there's always good old https://speedtest.net/.  (By
 the way, next time you're visiting speedtest.net, watch how
 the "download speedometer" dial starts off low and increases
 over time.  That's what I mean when I say you might be done
@@ -188,7 +188,7 @@ blip is open source software released under the Apache
 license.  See the file COPYING and comments inside the code
 for more details.
 
-You can get the source code at: http://github.com/apenwarr/blip
+You can get the source code at: https://github.com/apenwarr/blip
 
 If you want to discuss this tool, you can join the
 blip-users@googlegroups.com mailing list.  You don't need a
